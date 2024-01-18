@@ -367,12 +367,109 @@
 	covered_limbs = list("Head" = MATRIX_GREEN)
 	recommended_species = list("teshari")
 
+//vox hairs
+/datum/sprite_accessory/hair/vox
+	name = "Vox Short Quills"
+	icon_state = "vox_shortquills"
+	icon = 'modular_splurt/icons/mob/hair.dmi'
 
+/datum/sprite_accessory/hair/vox/vox_afro
+	name = "Vox Afro"
+	icon_state = "hair_vox_afro"
 
+/datum/sprite_accessory/hair/vox/vox_crestedquills
+	name = "Vox Crested Quills"
+	icon_state = "vox_crestedquills"
 
+/datum/sprite_accessory/hair/vox/vox_emperorquills
+	name = "Vox Emperor Quills"
+	icon_state = "vox_emperorquills"
 
+/datum/sprite_accessory/hair/vox/vox_horns
+	name = "Vox Horns"
+	icon_state = "vox_horns"
 
+/datum/sprite_accessory/hair/vox/vox_keelquills
+	name = "Vox Keel Quills"
+	icon_state = "vox_keelquills"
 
+/datum/sprite_accessory/hair/vox/vox_keetquills
+	name = "Vox Keet Quills"
+	icon_state = "vox_keetquills"
+
+/datum/sprite_accessory/hair/vox/vox_kingly
+	name = "Vox Kingly"
+	icon_state = "vox_kingly"
+
+/datum/sprite_accessory/hair/vox/vox_mohawk
+	name = "Vox Mohawk"
+	icon_state = "vox_mohawk"
+
+/datum/sprite_accessory/hair/vox/vox_nights
+	name = "Vox Nights"
+	icon_state = "vox_nights"
+
+/datum/sprite_accessory/hair/vox/vox_razorclipped
+	name = "Vox Razor Clipped"
+	icon_state = "vox_razorclipped"
+
+/datum/sprite_accessory/hair/vox/vox_razor
+	name = "Vox Razor"
+	icon_state = "vox_razor"
+
+/datum/sprite_accessory/hair/vox/vox_tielquills
+	name = "Vox Tiel Quills"
+	icon_state = "vox_tielquills"
+
+/datum/sprite_accessory/hair/vox/vox_yasu
+	name = "Vox Yasu"
+	icon_state = "vox_yasu"
+
+/datum/sprite_accessory/hair/vox/surf
+	name = "Vox Surf"
+	icon_state = "vox_surf"
+
+/datum/sprite_accessory/hair/vox/cropped
+	name = "Vox Cropped"
+	icon_state = "vox_cropped"
+
+/datum/sprite_accessory/hair/vox/rows
+	name = "Vox Rows"
+	icon_state = "vox_rows"
+
+/datum/sprite_accessory/hair/vox/ponytail
+	name = "Vox Ponytail"
+	icon_state = "vox_pony"
+
+/datum/sprite_accessory/hair/vox/mange
+	name = "Vox Mange"
+	icon_state = "vox_mange"
+
+/datum/sprite_accessory/hair/vox/ruffhawk
+	name = "Vox Ruffhawk"
+	icon_state = "vox_ruffhawk"
+
+//vox face hairs
+/datum/sprite_accessory/facial_hair/vox
+	name = "Vox Beard"
+	icon_state = "vox_beard"
+	icon = 'modular_splurt/icons/mob/hair.dmi'
+
+/datum/sprite_accessory/facial_hair/vox/vox_colonel
+	name = "Vox Beard (Colonel)"
+	icon_state = "vox_colonel"
+
+/datum/sprite_accessory/facial_hair/vox/vox_fu
+	name = "Vox Beard (Fu)"
+	icon_state = "vox_fu"
+
+/datum/sprite_accessory/facial_hair/vox/vox_neck
+	name = "Vox Neck Quills"
+	icon_state = "vox_neck"
+
+/datum/sprite_accessory/facial_hair/vox/vox_mane
+	name = "Vox Mane"
+	icon_state = "vox_mane"
 
 
 
