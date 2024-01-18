@@ -250,7 +250,7 @@
 	icon_state = "lbelly"
 	covered_limbs = list("Head" = MATRIX_RED, "Chest" = MATRIX_RED, "Left Leg" = MATRIX_RED, "Right Leg" = MATRIX_RED, "Left Arm" = MATRIX_RED, "Right Arm" = MATRIX_RED)
 
-/datum/sprite_accessory/mam_body_markings/lbelly
+/datum/sprite_accessory/mam_body_markings/vox
 	name = "Vox"
 	icon_state = "vox"
 	icon = 'modular_citadel/icons/mob/markings_notmammals.dmi'
